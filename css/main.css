@@ -41,14 +41,12 @@ body {
   background: url(../img/cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-/*   background-position: center; */
-  background-size: 100% 100%;
+  background-position: bottom;
   height: 100vh;
   margin: 3px auto 0;
   color: #fff;
   text-align: center;
   font-family: "Quicksand", sans-serif;
-  /* object-fit: cover; */
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
